@@ -60,8 +60,8 @@ df["Survived"].value_counts()
 ![image](https://github.com/user-attachments/assets/2c991851-4d1a-4bf9-8a97-fd1ed33d6c4a)
 ```py
 per=(df["Survived"].value_counts()/df.shape[0]*100).round(2)
-```per
-
+per
+```
 ![image](https://github.com/user-attachments/assets/bebac8b7-01e9-464d-bbae-a983d8c3c469)
 ```py
 sns.countplot(x="Survived",data=df)
