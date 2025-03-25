@@ -1,5 +1,5 @@
 # EXNO2DS
-## Nmae:Dhayananth.P.S
+## Name:Dhayananth.P.S
 ## Regno:212223040039
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
